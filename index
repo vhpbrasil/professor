@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>Aulas de Educação Financeira – 8º Ano</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f8f9fa;
+      color: #333;
+      margin: 0;
+      padding: 20px;
+    }
+    h1 {
+      color: #0a58ca;
+    }
+    .aula {
+      background-color: #fff;
+      border: 1px solid #ddd;
+      padding: 15px;
+      margin-bottom: 20px;
+      border-radius: 8px;
+    }
+    .aula h2 {
+      margin-top: 0;
+      color: #198754;
+    }
+    a {
+      color: #0d6efd;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+  </style>
+</head>
+<body>
+  <h1>Aulas de Educação Financeira – 8º Ano</h1>
+  <p>Bem-vindo(a)! Aqui você encontra os materiais organizados por aula. Bons estudos!</p>
+
+  <div class="aula">
+    <h2>Aula 1 – O que é Educação Financeira?</h2>
+    <ul>
+      <li><a href="aula1/introducao-educacao-financeira.pdf" target="_blank">PDF da Aula</a></li>
+      <li><a href="https://youtu.be/EXEMPLO1" target="_blank">Vídeo explicativo</a></li>
+      <li><a href="aula1/atividade1.pdf" target="_blank">Atividade para imprimir</a></li>
+    </ul>
+  </div>
+
+  <div class="aula">
+    <h2>Aula 2 – Planejamento e Consumo Consciente</h2>
+    <ul>
+      <li><a href="aula2/planejamento-consumo.pdf" target="_blank">PDF da Aula</a></li>
+      <li><a href="https://youtu.be/EXEMPLO2" target="_blank">Vídeo de apoio</a></li>
+      <li><a href="aula2/atividade2.pdf" target="_blank">Atividade prática</a></li>
+    </ul>
+  </div>
+
+  <div class="aula">
+    <h2>Aula 3 – Diferença entre Desejo e Necessidade</h2>
+    <ul>
+      <li><a href="aula3/desejo-vs-necessidade.pdf" target="_blank">Material em PDF</a></li>
+      <li><a href="https://youtu.be/EXEMPLO3" target="_blank">Vídeo para reflexão</a></li>
+    </ul>
+  </div>
+
+  <div class="aula">
+    <h2>Aula 4 – Como montar um orçamento pessoal</h2>
+    <ul>
+      <li><a href="aula4/orcamento-modelo.pdf" target="_blank">Modelo de Orçamento</a></li>
+      <li><a href="aula4/planilha-exemplo.xlsx" target="_blank">Planilha de exemplo</a></li>
+    </ul>
+  </div>
+
+</body>
+</html>
